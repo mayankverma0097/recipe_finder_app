@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import "./Recipes.css";
+import "./recipes.css";
 import AskAi from '../Utils/AskAi.js';
 
 export default function Recipes() {
