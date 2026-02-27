@@ -12,6 +12,11 @@ export default function Home() {
             <h1 className="hero-title">
               Find Perfect <span className="highlight">Recipes with AI</span>
             </h1>
+             <h2 className="hero-description" style={{
+              color:"blue"
+             }}>
+              This app is dedicated to the bachelors and the women who don't know how to cook.
+            </h2>
             <p className="hero-description">
               Discover delicious recipes step-by-step with our intelligent AI assistant. 
               Simply enter your ingredients or cravings, and let AI create personalized recipes just for you.

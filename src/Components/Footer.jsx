@@ -15,7 +15,7 @@ export default function Footer() {
             <Link to="/">
               <img src={logo_1} alt="Bhandara.in Logo" className="footer-logo" />
             </Link>
-            <h3 className="site-name">bhandara.in</h3>
+            <h3 className="site-name">Recipe.in</h3>
             <p className="footer-tagline">
               Discover delicious recipes with AI-powered recommendations
             </p>
@@ -65,7 +65,7 @@ export default function Footer() {
         {/* Footer Bottom */}
         <div className="footer-bottom">
           <div className="footer-copyright">
-            <p>© {currentYear} bhandara.in. All rights reserved.</p>
+            <p>© {currentYear} Recipe.in. All rights reserved.</p>
           </div>
           <div className="footer-legal">
             <Link to="/privacy">Privacy Policy</Link>
